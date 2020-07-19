@@ -1,0 +1,9 @@
+str='Mississippi'
+msg = str.count("i")
+print('i=',msg)
+msg = str.count("s")
+print('s=',msg)
+msg = str.count("p")
+print('p=',msg)
+msg = str.count("M")
+print('M=',msg)
